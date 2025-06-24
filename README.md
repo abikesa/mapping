@@ -38,7 +38,7 @@ python3 recursion.py
 
 ## Fledgling
 
-`3. **Ukusoma** – Risk & Conflict (🌀 Fork)`: given its worthy isiZulu connotations, isn't it better rendered Contact & Risk?
+`3. Ukusoma – Risk & Conflict (🌀 Fork)`: given its worthy isiZulu connotations, isn't it better rendered Contact & Risk?
 
 ---
 
