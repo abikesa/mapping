@@ -24,7 +24,7 @@ This system aligns with the [Ubuntu Spiral Loop](https://example.com) and its fi
 2. **Ukuzula** – Wandering (❤️ Trunk)
 3. **Ukusoma** – Risk & Conflict (🌀 Fork)
 4. **Ukubona** – Seeing & Branching (🐬 Branch)
-5. **Ukuvela** – Emergence & Flourishing (🔁 Recurs)
+5. **Ukuvela** – Emergence & Flourishing (🔁 Canopy-Recurs)
 
 ---
 
