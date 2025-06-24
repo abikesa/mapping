@@ -1,3 +1,9 @@
+🌊 Nonself        
+❤️ Boundaries        
+🌀 Ukusoma      
+🐬 Alliances       
+🔁 Flourishing        
+
 # 🌳 Neurocosmic Arbor
 
 **The Neurocosmic Arbor** is a recursive, moral-computational system for navigating signal, noise, and flourishing across layered time scales. It fuses neuroscience, ethics, and epistemology into a living dashboard.
