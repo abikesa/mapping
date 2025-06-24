@@ -10,7 +10,7 @@
 | ❤️ Trunk   | `.yml` | `trunk.yml`      | Self, Role Commons, Structure        |
 | 🌀 Fork    | `.py`  | `fork.py`        | Good vs Evil, Conflict Engine        |
 | 🐬 Branch  | `.html`| `branching.html` | Divergence, Nature vs Artifice       |
-| 🔁 Recurs | `.py`  | `recursion.py`   | Flourishing, Reflection, Return      |
+| 🔁 Recurs | `.py`  | `canopy-recursion.py`   | Flourishing, Reflection, Return      |
 
 Each file is both **a metaphor** and a **functional module** in a unified arborological cosmogram.
 
