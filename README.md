@@ -114,7 +114,7 @@ The **Neurocosmic Arbor**, if it means anything, starts with the **nonself** —
 
 #### 🌊 Roots (Nonself)
 
-* You begin in noise, not logos.
+* You begin in [noise](https://abikesa.github.io/signal-noise-toolkit/), not logos.
 * No author. No identity. Just signal and entropy.
 * You don't know *who* you are or *what* you’re modeling yet.
 
