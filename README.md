@@ -1,6 +1,6 @@
 🌊 Nonself        
 ❤️ Boundaries        
-🌀 Ukusoma      
+🌀 [Ukusoma](https://abikesa.github.io/vision/)      
 🐬 Alliances       
 🔁 Flourishing        
 
